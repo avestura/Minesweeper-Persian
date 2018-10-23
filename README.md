@@ -9,3 +9,7 @@ I wrote this GUI game as a project for my advanced programming course of Univers
 Programming Language: Java
 
 User Interface Framework: Swing
+
+## Screencast
+
+![Persian MineSweeper](./Screencast/minesweeper.gif)
