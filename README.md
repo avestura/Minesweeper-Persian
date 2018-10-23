@@ -10,6 +10,8 @@ Programming Language: Java
 
 User Interface Framework: Swing
 
+Known issue with High-Dpi
+
 ## Screencast
 
 ![Persian MineSweeper](./Screencast/minesweeper.gif)
